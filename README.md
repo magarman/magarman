@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @magarman === Mari
-- 👀 I’m interested in cats, drums, music, heavy metal, and good causes between many other things. 
+- 👀 I’m interested in cats, drums, music, heavy metal between many other things. 
 - 🌱 I’m currently learning front-end technologies (Javascript, HTML, CSS, etc)
 - 💞️ I’m looking to collaborate on anything that will expose me to learning and practicing my skills. 
 - 📫 How to reach me? Message me.
